@@ -27,7 +27,7 @@ int main()
     char *url = "";
     char outfilename[FILENAME_MAX] = "C:\\bbb.txt";
     curl = curl_easy_init();
-  string license="ULICENSED";
+  string license="ULICENSED. ::FREE VERSION::";
     char c=' ';
     string password;
     string adminpass="";
